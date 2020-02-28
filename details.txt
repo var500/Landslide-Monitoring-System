@@ -1,0 +1,13 @@
+Team Name: Binary Coders
+
+Chosen Problem Statement: The state of Uttarakhand comprises of 09 hilly districts. During monsoon season the road connectivity is a major problem. Due to heavy rainfall, complete washout of roads takes place up to 50 m length, land slide in many locations disturbs the flow of traffic, natural calamity and extreme weather incidents is a matter of concern. Restoring of connectivity in the shortest possible duration is required so that small vehicles and regular traffic flow can be resumed. The major problem is the situations where there is a complete washout of trenches of 50 m of hilly road, wherein the only solution is through providing temporary bridges so that the vehicles can move. It should be a safe, durable and low-cost solution.
+
+Idea Title: Landslide Monitoring System
+
+Idea Description: Using soil moisture sensing module to sense the loosening of soil
+		  Using accelerometer to sense the motion of rocks
+		  Using ultrasonic sensors to detect the landslide
+		  Using GSM module to send SMS alerts
+
+
+
