@@ -31,8 +31,4 @@ Idea Description:
 </p>
 
 ## **Video**
-A sample working of the prototype can be seen:
-
-<p align="center">
-<video src='Media1.mp4' width=180>
-</p>
+A sample working of the prototype can be seen [here](Media1.mp4)
