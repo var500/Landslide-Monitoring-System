@@ -34,5 +34,5 @@ Idea Description:
 A sample working of the prototype can be seen:
 
 <p align="center">
-<video src='Media1.mp4' width=180/>
+<video src='Media1.mp4' width=180>
 </p>
