@@ -44,9 +44,9 @@ else
 {
   mySerial.println("AT+CMGF=1");    //Sets the GSM Module in Text Mode
   delay(1000);  // Delay of 1000 milli seconds or 1 second
-  mySerial.println("AT+CMGS=\"+918572039226\"\r"); // Replace x with mobile number
+  mySerial.println("AT+CMGS=\"+91xxxxxxxxxx\"\r"); // Replace x with mobile number
   delay(1000);
-  mySerial.println("Landslide at Wakna003, Reach immediately.");// The SMS text you want to send
+  mySerial.println("Landslide at Post003, Reach immediately.");// The SMS text you want to send
   delay(100);
    mySerial.println((char)26);// ASCII code of CTRL+Z
   delay(1000);
